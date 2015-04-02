@@ -1,0 +1,55 @@
+html, body {
+	width: 100%;
+	height: auto;
+	background: #fff;
+	font-family: 'Linux Libertine', arial;
+	margin: 0;
+}
+
+.container {
+
+	width: 70%;
+	margin: 0 auto;
+}
+
+.top-text-field {
+	font-size: 20px;
+	line-height: 30px;
+	margin-top: 50px;
+}
+
+.welcome {
+	font-size: 30px;
+	display: flex;
+	justify-content: row;
+	justfy-content: flex-end;
+
+}
+
+.logo-container {
+	display: flex;
+	justify-content: row;
+	justify-content: space-between;
+	flex-wrap: wrap;
+
+}
+.logo{
+	margin: 50px 50px 20px 0px;
+}
+
+hr {
+	display: block;
+	margin: 0 auto;
+	border: none;
+	height: 0.5px;
+	background-color: #000;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+.bottom-text {
+	width: 80%;
+	margin: 0 auto;
+	font-size: 12px;
+}
